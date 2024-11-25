@@ -19,6 +19,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
+
 ###
 
 <h2 align="left">I'm learning</h2>
@@ -54,10 +55,8 @@
 ###
 
 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duyhai1211&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=duyhai1211&theme=dark)
-
+![Github](https://streak-stats.demolab.com/?user=duyhai1211&theme=dark)
 
 
 
