@@ -12,6 +12,8 @@
 
 <p align="left">I am a cheerful, positive, and ambitious person.^^</p>
 
+[CV_Portfolio](https://bit.ly/CV_VUDUYHAI_Web)
+
 ###
 
 <div align="left">
